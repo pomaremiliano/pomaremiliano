@@ -35,15 +35,19 @@ I'm a computer science and engineering student from México. I'm passionate abou
 
 ## 📫 How to reach me
 
-- Email: (pomaremiliano@hotmail.com)
-- LinkedIn: (www.linkedin.com/in/emilianopomar)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pomaremiliano@hotmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emilianopomar)
 
 
 ## 🎵 Hobbies and Interests
 
-- Music 
-- Cinema
-- Networking
-- Algorithm-focused programming
+- 🎵 Music 
+- 🎥 Cinema
+- ⚽ Football (soccer)
+    - Teams: Pumas UNAM 🐱
+            Real Madrid C.F.👑
+- 🧠 Algorithm-focused programming
+- 🌐 Web Development
 
-Thanks for visiting my profile!
+
+## Thanks for visiting my profile!
