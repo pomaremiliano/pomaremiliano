@@ -39,15 +39,4 @@ I'm a computer science and engineering student from México. I'm passionate abou
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilianopomar/)
 
 
-## 🎵 Hobbies and Interests
-
-- 🎵 Music 
-- 🎥 Cinema
-- ⚽ Football (soccer)
-    - Teams: Pumas UNAM 🐱
-            Real Madrid C.F.👑
-- 🧠 Algorithm-focused programming
-- 🌐 Web Development
-
-
 ## Thanks for visiting my profile!
