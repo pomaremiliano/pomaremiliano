@@ -1,4 +1,4 @@
-# Hello, I'm Emiliano Pomar! 👋🐐
+# Hello, I'm Emiliano Pomar! 👋
 
 I'm a computer science and engineering student from México. I'm passionate about music, cinema, and programming. I'm currently studying subjects such as networking and algorithm-focused programming.
 
@@ -23,6 +23,7 @@ I'm a computer science and engineering student from México. I'm passionate abou
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
